@@ -1,0 +1,7 @@
+# Employee-level data. Never commit — contains named PII (hire dates, managers,
+# levels, per-person AI usage). Work with these from Drive or local uploads only.
+data/
+*.xlsx
+*.xls
+*.csv
+!docs/**/*.md
